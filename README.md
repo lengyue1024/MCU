@@ -1,5 +1,5 @@
 # MCU
->**单片机学习笔记(主要包含单片机，C语言，嵌入式，树莓派等电子相关知识)**
+>:rocket:**单片机学习笔记(主要包含单片机，C语言，嵌入式，树莓派等电子相关知识)**
 ## 联系我
 [![](https://wangchujiang.com/sb/ico/qq.svg)](http://wpa.qq.com/msgrd?v=3&uin=3433951572&site=qq&menu=yes) [![](https://wangchujiang.com/sb/ico/group.svg)](https://jq.qq.com/?_wv=1027&k=5MttUBq) [![](https://wangchujiang.com/sb/ico/linux.svg)](https://www.bingyublog.com) [![](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com)
 
