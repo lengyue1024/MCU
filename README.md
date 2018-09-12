@@ -1,6 +1,11 @@
+<img align="right" height="150" src="https://ws1.sinaimg.cn/large/006DGX4tly1fv75asuc5fj30nu0ddn09.jpg">
+
 # MCU
+
 >:rocket:**单片机学习笔记(主要包含单片机，C语言，嵌入式，树莓派等电子相关知识)**
+
 ## 联系我
+
 [![](https://wangchujiang.com/sb/ico/qq.svg)](http://wpa.qq.com/msgrd?v=3&uin=3433951572&site=qq&menu=yes) [![](https://wangchujiang.com/sb/ico/group.svg)](https://jq.qq.com/?_wv=1027&k=5MttUBq) [![](https://wangchujiang.com/sb/ico/linux.svg)](https://www.bingyublog.com) [![](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com)
 
 [![GitHub stars](https://img.shields.io/github/stars/lengyue1024/MCU.svg)](https://github.com/lengyue1024/MCU/stargazers)
